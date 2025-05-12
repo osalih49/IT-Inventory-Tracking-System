@@ -1,0 +1,7 @@
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\bin\Debug\ITInventoryTrackingSystem.exe.config
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\bin\Debug\ITInventoryTrackingSystem.exe
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\bin\Debug\ITInventoryTrackingSystem.pdb
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\obj\Debug\ITInventoryTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\obj\Debug\ITInventoryTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\obj\Debug\ITInventoryTrackingSystem.exe
+C:\Users\oosal\OneDrive\Documents\csharp-backend-bootcamp\ITInventoryTrackingSystem\ITInventoryTrackingSystem\obj\Debug\ITInventoryTrackingSystem.pdb
